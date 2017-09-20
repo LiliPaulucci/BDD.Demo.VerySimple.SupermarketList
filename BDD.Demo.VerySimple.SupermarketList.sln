@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDD.Demo.VerySimple.SupermarketList.FirstScenario", "BDD.Demo.VerySimple.SupermarketList\BDD.Demo.VerySimple.SupermarketList.FirstScenario.csproj", "{893BBBCC-C47E-4550-80FA-50242D7E178B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{893BBBCC-C47E-4550-80FA-50242D7E178B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893BBBCC-C47E-4550-80FA-50242D7E178B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893BBBCC-C47E-4550-80FA-50242D7E178B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893BBBCC-C47E-4550-80FA-50242D7E178B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
